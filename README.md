@@ -4,6 +4,5 @@ This should help you get started with your UI project.
 
 ```sh
 npm install
-DEBUG=ui-boilerplate:* npm start
-# or npm start
+npm start
 ```
